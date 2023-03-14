@@ -1,6 +1,6 @@
 
-//Bienvenidos a LiezenSHOES
-alert('Bienvenido a LiezenShoes!')
+//Bienvenidos a LiezenSHOES!
+alert('Bienvenido a LiezenShoes!!!!!!!')
 
 const comprarProducto = () => {
     let producto = ''
